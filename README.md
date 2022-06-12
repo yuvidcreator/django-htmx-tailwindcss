@@ -1,7 +1,7 @@
 ## Developed by Yuvraaj Limbole ##
 Project Name - Django - HTMX - Tailwind CSS Boilerplate
 
-
+django-htmx-tailwindcss
 git clone https://...
 
 # installing separate virtual environment for django project
